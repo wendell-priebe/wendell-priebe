@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, me chamo Wendell 👋
 
 <!--
 **wendell-priebe/wendell-priebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendell-priebe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendell-priebe&layout=compact&langs_count=7&theme=dark"/>
+</div>
